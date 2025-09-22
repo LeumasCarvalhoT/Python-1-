@@ -1,0 +1,2 @@
+número = int(input('Escreva um número: '))
+print('O dobro de {0} é igual a {1}.\n O triplo de {0} é igual a {2}.\n E a raiz quadrada é igual a {3:.2f}.'.format(número, número*2, número*3, número**0.5))
